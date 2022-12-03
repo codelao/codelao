@@ -19,7 +19,7 @@ My skills:
 </h1>
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelao&layout=compact&theme=radical)](https://github.com/codelao/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=codelao&hide=issues,contribs&theme=radical)](https://github.com/codelao/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=codelao&hide=issues,contribs&theme=radical&show_icons=True&count_private=true)](https://github.com/codelao/github-readme-stats)
 
 <h2 align="center">
 Find me on other platforms:
