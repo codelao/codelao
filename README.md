@@ -31,3 +31,6 @@ Find me on other platforms:
 </h2>
 
 - *Buy your own Telegram bot [here](https://kwork.ru/script-programming/24019787/razrabotka-telegram-chat-bota-python-telegram-bot)*
+
+![stats](https://github-readme-stats.vercel.app/api?username=codelao&show_icons=true&theme=radical&hide=issues,contribs)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelao&theme=radical)
