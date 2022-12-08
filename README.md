@@ -30,4 +30,4 @@
 Find me on other platforms:
 </h2>
 
-- *Buy your own Telegram bot [here]([https://kwork.ru/user/codelao](https://kwork.ru/script-programming/24019787/razrabotka-telegram-chat-bota-python-telegram-bot))*
+- *Buy your own Telegram bot [here](https://kwork.ru/script-programming/24019787/razrabotka-telegram-chat-bota-python-telegram-bot)*
