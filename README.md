@@ -30,7 +30,4 @@
 Find me on other platforms:
 </h2>
 
-- *Buy your own Telegram bot [here](https://kwork.ru/user/codelao)*
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=codelao&hide=issues,contribs&theme=radical&show_icons=True&count_private=true)](https://github.com/codelao/github-readme-stats)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelao&layout=compact&theme=radical)](https://github.com/codelao/github-readme-stats)
+- *Buy your own Telegram bot [here]([https://kwork.ru/user/codelao](https://kwork.ru/script-programming/24019787/razrabotka-telegram-chat-bota-python-telegram-bot))*
