@@ -32,6 +32,9 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="5.5%">
   </a>
+  <a href="https://www.sublimetext.com">
+    <img src="https://img.icons8.com/fluency/512/sublime-text.png" width="5.5%">
+  </a>
   <a href="https://www.docker.com/">
     <img src="https://img.icons8.com/fluency/512/docker.png" width="5.5%">
   </a>
