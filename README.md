@@ -12,6 +12,12 @@
   <a href="https://en.wikipedia.org/wiki/SQL">
     <img src="https://img.icons8.com/fluency/256/database.png" width="6.5%">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" width="6.5%">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file">
+    <img src="https://img.icons8.com/?size=512&id=l8BrXq94xzJ9&format=png" width="6.5%">
+  </a>
 </p>
 
 
@@ -49,5 +55,8 @@
   </a>
   <a href="https://miro.com/">
     <img src="https://cdn-images-1.medium.com/max/1200/1*RRiFpaA3RH86lVfMi_oL0Q.png" width="5.3%">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Qt_(software)">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png" width="5.5%">
   </a>
 </p>
