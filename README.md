@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  Languages:
+  Languages
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 
 <h1 align="center">
-  Tools:
+  Tools
 </h1>
 
 <p align="center">
