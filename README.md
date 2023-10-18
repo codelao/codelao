@@ -1,6 +1,10 @@
 [![import-style](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=2000&color=F79150&multiline=true&width=435&lines=import+lao)](https://git.io/typing-svg)
 
 
+<h2 align="center">
+  Desktop and chatbot developer</br>Interested in cybersecurity
+</h2>
+
 <h1 align="center">
   Languages
 </h1>
@@ -38,26 +42,14 @@
   <a href="https://miro.com/">
     <img src="https://cdn-images-1.medium.com/max/1200/1*RRiFpaA3RH86lVfMi_oL0Q.png" width="5.3%">
   </a>
-  <a href="https://www.heroku.com/">
-    <img src="https://img.icons8.com/color/512/heroku.png" width="5.5%">
-  </a>
-  <a href="https://cloud.google.com/">
-    <img src="https://img.icons8.com/fluency/512/google-cloud.png" width="5.5%">
-  </a>
-  <a href="https://www.linode.com/">
-    <img src="https://img.icons8.com/?size=96&id=20786&format=png" width="5.5%">
-  </a>
-  <a href="https://www.akamai.com/">
-    <img src="https://www.akamai.com/site/en/images/logo/akamai-logo.svg" width="12%">
-  </a>
-  <a href="https://ngrok.com/">
-    <img src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4" width="5.5%">
-  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="5.5%">
   </a>
-  <a href="https://telegram.me/BotFather">
-    <img src="https://mehed.pro/uploads/filemanager/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/autumn-22/kak-sozdat-chat-bota-v-telegram-i-nastroit-menyu-s-knopkami.png" width="5.5%">
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.icons8.com/?size=96&id=6RHskkZGRABM&format=png" width="5.7%">
+  </a>
+  <a href="https://brave.com/">
+    <img src="https://img.icons8.com/?size=96&id=ZAPJV5FAO4PW&format=png" width="5.7%">
   </a>
   <a href="https://rapidapi.com/hub">
     <img src="https://rapidapi.com/static-assets/default/favicon-8e7d522e-653f-4edd-ac27-3f6ed950e45d.png" width="5.5%">
@@ -71,6 +63,9 @@
   <a href="https://mac.getutm.app/">
     <img src="https://mac.getutm.app/images/logo@2x.png" width="5.4%">
   </a>
+  <a href="https://www.parallels.com/">
+    <img src="https://www.parallels.com/static/pl/fileadmin/res/img/about/brand/logo-knockout-on-red.jpg" width="5.5%">
+  </a>
 </p>
 
 
@@ -80,6 +75,15 @@
 
 <p align="center">
   <p align="center">Qt, REST API, SQLite, SQLAlchemy, NoSQL</p>
+</p>
+
+
+<h1 align="center">
+  Cloud and hosting solutions
+</h1>
+
+<p align="center">
+  <p align="center">Google Cloud, Amazon S3, Akamai, Linode, Heroku, ngrok, Serveo</p>
 </p>
 
 
