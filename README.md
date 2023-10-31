@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  Desktop and chatbot developer</br>Interested in cybersecurity
+  Software developer</br>Interested in cybersecurity
 </h2>
 
 <h1 align="center">
