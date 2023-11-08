@@ -39,6 +39,9 @@
   <a href="https://git-scm.com/">
     <img src="https://img.icons8.com/color/512/git.png" width="5.5%">
   </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.icons8.com/?size=96&id=cdYUlRaag9G9&format=png" width="5.2%">
+  </a>
   <a href="https://miro.com/">
     <img src="https://cdn-images-1.medium.com/max/1200/1*RRiFpaA3RH86lVfMi_oL0Q.png" width="5.3%">
   </a>
@@ -54,7 +57,7 @@
   <a href="https://rapidapi.com/hub">
     <img src="https://rapidapi.com/static-assets/default/favicon-8e7d522e-653f-4edd-ac27-3f6ed950e45d.png" width="5.5%">
   </a>
-  <a href="https://sqlitestudio.pl">
+  <a href="https://sqlitestudio.pl/">
     <img src="https://sqlitestudio.pl/img/sqlitestudio.png" width="5.2%">
   </a>
   <a href="https://www.virtualbox.org/">
@@ -83,7 +86,7 @@
 </h1>
 
 <p align="center">
-  <p align="center">Google Cloud, Amazon S3, Akamai, Linode, Heroku, ngrok, Serveo</p>
+  <p align="center">Google Cloud, AWS, Akamai, Linode, Heroku, ngrok, Serveo</p>
 </p>
 
 
