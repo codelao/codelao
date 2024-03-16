@@ -37,7 +37,7 @@
 </h1>
 
 <p align="center">
-  <p align="center">Git, Docker, Qt, REST API, SQLite, SQLAlchemy, NoSQL, VMs</p>
+  <p align="center">Git, Docker, VMs, Qt, REST API, SQLite, MySQL, MongoDB</p>
 </p>
 
 
