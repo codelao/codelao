@@ -37,16 +37,7 @@
 </h1>
 
 <p align="center">
-  <p align="center">Git, Docker, VMs, Qt, REST API, SQLite, MySQL, MongoDB</p>
-</p>
-
-
-<h1 align="center">
-  Cloud and hosting solutions
-</h1>
-
-<p align="center">
-  <p align="center">Google Cloud, AWS, Linode, Heroku, Timeweb, ngrok, Serveo</p>
+  <p align="center">Git, Docker, VMs, Qt, REST API, SQLite, MySQL, MongoDB, Google Cloud, AWS, Linode, Heroku, Timeweb, ngrok, Wireshark, Fiddler, VSCode</p>
 </p>
 
 
