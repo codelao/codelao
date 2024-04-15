@@ -1,11 +1,6 @@
 [![import-style](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=2000&color=F79150&multiline=true&width=435&lines=import+lao)](https://git.io/typing-svg)
 
 
-<h2 align="center">
-  Software developer / System administrator
-</h2>
-
-
 <h1 align="center">
   Languages
 </h1>
@@ -37,11 +32,5 @@
 </h1>
 
 <p align="center">
-  <p align="center">Git, Docker, VMs, Qt, REST API, SQLite, MySQL, MongoDB, Google Cloud, AWS, Linode, Heroku, Timeweb, ngrok, Wireshark, Fiddler, VSCode</p>
-</p>
-
-
-<p align="center">
-  <a href="https://pypi.org/user/lao/">PyPI</a></br>
-  <a href="https://kwork.ru/user/code_lao">Kwork</a>
+  <p align="center">Git, Visual Studio Code, Docker, SQLite, SQLAlchemy, MongoDB, Heroku, Timeweb</p>
 </p>
