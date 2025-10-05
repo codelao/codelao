@@ -6,6 +6,7 @@
 <p align="left">
 My name is Arseni, I'm a CS student and an amateur programmer since 2021.<br>
 I like doing projects which involve multiple fields of software development, and you can always keep track of my current ideas by navigating to <a href="https://github.com/codelao?tab=projects">Projects</a> tab. <br>
+Python developers, please check out my <a href="https://pypi.org/user/lao/">PyPI</a> page. <br>
 <em>Any contributions from your side are highly appreciated!</em>
 </p>
 
