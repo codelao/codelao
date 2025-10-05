@@ -5,7 +5,7 @@
 </h3>
 <p align="left">
 My name is Arseni, I'm a CS student and an amateur programmer since 2021.<br>
-I like doing projects which involve multiple fields of software development, and you can always keep track of my current ideas by navigating to the <a href="https://github.com/codelao?tab=projects">Projects</a> or <a href="https://github.com/codelao?tab=repositories">Repos</a> tab. <br>
+I like doing projects which involve multiple fields of software development, and you can always keep track of my current ideas by navigating to <a href="https://github.com/codelao?tab=projects">Projects</a> tab. <br>
 <em>Any contributions from your side are highly appreciated</em>
 </p>
 
