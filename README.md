@@ -5,8 +5,7 @@
 </h3>
 <p align="left">
 My name is Arseni, I'm a CS student and an amateur programmer since 2021.<br>
-I like doing projects which involve multiple fields of software development, and you can always keep track of my current ideas by navigating to <a href="https://github.com/codelao?tab=projects">Projects</a> tab. <br>
-Python developers, please check out my <a href="https://pypi.org/user/lao/">PyPI</a> page. <br>
+Python developers, check out my <a href="https://pypi.org/user/lao/">PyPI</a> page. <br>
 <em>Any contributions from your side are highly appreciated!</em>
 </p>
 
@@ -24,9 +23,6 @@ Python developers, please check out my <a href="https://pypi.org/user/lao/">PyPI
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" width="6.5%">
   </a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell">
-    <img src="https://img.icons8.com/?size=512&id=FwaVI1qCE7hQ&format=png" width="6.5%">
-  </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="6.5%">
   </a>
@@ -38,9 +34,9 @@ Python developers, please check out my <a href="https://pypi.org/user/lao/">PyPI
 
 
 <h1 align="center">
-  Skills
+  Relevant skills
 </h1>
 
 <p align="center">
-  <p align="center">Git, Docker, SQLite, SQLAlchemy, MongoDB, OpenVPN and others.</p>
+  <p align="center">Qt/PyQt, Django, AWS (Lambda/RDS/EC2), MySQL/MongoDB, Node.js</p>
 </p>
