@@ -1,4 +1,4 @@
-[![import-style](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=2000&color=F79150&multiline=true&width=435&lines=👋+Hi+你好+Привет+नमस्ते)](https://git.io/typing-svg)
+[![import-style](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=2000&color=F79150&multiline=true&width=435&lines=👋+Hi+你好+Привет+नमस्ते+Hola)](https://git.io/typing-svg)
 
 
 <p align="left">
